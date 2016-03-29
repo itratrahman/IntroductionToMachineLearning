@@ -1,3 +1,5 @@
+####This source code gives a simple demonstation of linear regression
+
 ##import statements for numpy, matplotlib, and scipy from stats
 import numpy as np
 from matplotlib import pyplot as plt
