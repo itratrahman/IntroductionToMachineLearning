@@ -1,4 +1,4 @@
-####This sourcecode gives a simple demonstration of Neural Network 
+####This sourcecode gives a simple demonstration of Neural Network solving XOR problem
 
 ##Import statements for neural network
 from pybrain.tools.shortcuts import buildNetwork
