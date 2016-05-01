@@ -1,1 +1,1 @@
-This repository is used to store all my code in the turorial "Introduction to Machine Learning"
+This repository stores the source files of programming activities that I practiced for writing Python codes to implement the most important Machine Learning Algorithms using the scikit-learn library.
